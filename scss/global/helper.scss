@@ -1,0 +1,32 @@
+/* start helper classes */
+
+.flex {
+    display: flex;
+}
+
+.fd {
+    flex-direction: column;
+}
+
+.ai-c {
+    align-items: center;
+}
+
+.jc-sb {
+    justify-content: space-between;
+}
+
+.ta-c {
+    text-align: center;
+}
+
+.pr {
+    position: relative;
+}
+
+.container {
+    margin: 0 40px;
+}
+
+
+/* end helper classes */

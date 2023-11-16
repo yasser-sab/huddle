@@ -1,0 +1,40 @@
+/* start global styles */
+*, *::before, *::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+body {
+  font-size: 18px; }
+
+ul {
+  list-style: none; }
+
+img {
+  max-width: 100%;
+  display: block; }
+
+/* end global styles */
+/* start helper classes */
+.flex {
+  display: flex; }
+
+.fd {
+  flex-direction: column; }
+
+.ai-c {
+  align-items: center; }
+
+.jc-sb {
+  justify-content: space-between; }
+
+.ta-c {
+  text-align: center; }
+
+.pr {
+  position: relative; }
+
+.container {
+  margin: 0 40px; }
+
+/* end helper classes */
